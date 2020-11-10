@@ -7,7 +7,7 @@
 
 ## Documentação e repositórios
 
-- Código fonte final do projeto: https://gitlab.com/do25-maio2020/forum-alura
+- Código fonte final do projeto: https://github.com/rafaelvzago/caelum-do-9449-cofigo-fonte
 - Múltiplas chave SSH no mesmo computador: https://gist.github.com/jexchan/2351996
 - Git Flow: https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
 - Configurar o Jenkins com slaves: https://wiki.jenkins.io/display/JENKINS/Step+by+step+guide+to+set+up+master+and+agent+machines+on+Windows
